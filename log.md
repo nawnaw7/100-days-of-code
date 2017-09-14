@@ -2,7 +2,7 @@
 
 **The log of my 100 Days Of Code Challenge!**
 
-The log of my #100DaysOfCode challenge started on [September 7, Thursday, 2017].
+**Started on September 7th, Thursday, 2017**
 
 # Log
 
