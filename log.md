@@ -95,7 +95,15 @@ Nevertheless, I managed to do two algorithms.
 2. [Wherefore art thou](https://www.freecodecamp.org/challenges/wherefore-art-thou)
 
 
+### Day 9: September 15, Friday
 
+**Progress**: More algorithms today...
+
+**Thoughts**: I miss working on a project....Thinking about starting the JS calculator soon. ><
+
+**Link(s)**:
+1. [Search and Replace](https://www.freecodecamp.org/challenges/search-and-replace)
+2. [Pig Latin](https://www.freecodecamp.org/challenges/pig-latin)
 
 
 
