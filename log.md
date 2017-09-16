@@ -106,7 +106,13 @@ Nevertheless, I managed to do two algorithms.
 2. [Pig Latin](https://www.freecodecamp.org/challenges/pig-latin)
 
 
+### Day 9: September 16, Saturnday
 
+**Progress**: Done some MySQL and read a bit about JS closures and from the book Eloquent JavaScript.
+
+**Thoughts**: MySQL/PHP are quite confusing for the moment...I hope they'll get clearer later...
+
+**Link(s)**: -
 
 
 
