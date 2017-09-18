@@ -115,6 +115,13 @@ Nevertheless, I managed to do two algorithms.
 **Link(s)**: -
 
 
+### Day 11: September 17, Sunday
+
+**Progress**: Learned SASS (SCSS)! I'll definitely implement it in ym projects from now on!
+
+**Thouhgts**: Man, this SASS thing is awesome (as its name states)...I never thought you could add so much logic to style sheets. 
+
+**Link(s)**: -
 
 
 
