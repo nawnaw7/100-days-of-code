@@ -124,6 +124,16 @@ Nevertheless, I managed to do two algorithms.
 **Link(s)**: -
 
 
+### Day 12: September 18, Monday
+
+**Progress**: Finished the API section from the Udemy 'Complete Web Developer Course' + started working on my Portfolio.
+
+**Thoughts**: Nothing especially new. I've done most of these things when I worked on my Weather App. Also, I want to create a cool z-index parallax as the header of my portfolio. ^^
+
+**Link(s)**: 
+[Portfolio](https://nawnaw7.github.io/portfolio/)
+
+
 
 
 
