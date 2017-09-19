@@ -134,6 +134,16 @@ Nevertheless, I managed to do two algorithms.
 [Portfolio](https://nawnaw7.github.io/portfolio/)
 
 
+### Day 13: September 19, Tuesday
+
+**Progress**: Experimented with Multilayer Parallax, using CSS and JavaScript, and I actually made it work. 
+
+**Thoughts**: I always thought that this feature looked awesome and fancy (but complicated). I'm really glad I learned how to do it (at least partially, on the Y axis). I'm going to implement this in my Portfolio website.
+
+**Link(s)**:
+[Github/multilayer parallax](https://github.com/nawnaw7/tests-and-practice/tree/master/multilayer%20parallax)
+
+
 
 
 
