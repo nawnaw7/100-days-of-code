@@ -143,6 +143,14 @@ Nevertheless, I managed to do two algorithms.
 **Link(s)**:
 [Github/multilayer parallax](https://github.com/nawnaw7/tests-and-practice/tree/master/multilayer%20parallax)
 
+### Day 14: September 20, Wednesday
+
+**Progress**: Didn't do much today. I only worked a bit on my Portfolio project but haven't really advanced an idea...
+
+**Thoughts**: I felt kind of exhausted and overwhelmed/disappointed today....I hope that tomorrow will be better.
+
+**Link(s)**:
+[Portfolio](https://nawnaw7.github.io/portfolio/)
 
 
 
