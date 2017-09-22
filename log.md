@@ -153,6 +153,13 @@ Nevertheless, I managed to do two algorithms.
 [Portfolio](https://nawnaw7.github.io/portfolio/)
 
 
+### Day 15: September 21, Thursday
+
+**Progress**: Learned about creating mobile apps with App.js. Also, I'm postponing my portfolio project due to a lack of interesting ideas.
+
+**Thoughts**: Creating HTML/CSS/JS mobile apps is not that difficult apparently. I might try making one if the idea sparks. xD
+
+**Link(s)**: -
 
 
 
