@@ -162,6 +162,16 @@ Nevertheless, I managed to do two algorithms.
 **Link(s)**: -
 
 
+### Day 16: September 22, Friday
+
+**Progress**: Learned more about mobile apps. Learned about local storage with Javascript and how to deploy an app to various stores. Also, learned about HTML canvas + practiced a little.
+
+**Thoughts**: The canvas is really powerful. I must continue studying it and practicing, since you can do so many amazing things with it + it's Javascript :D
+
+**Link(s)**:
+[Github/canvas](https://github.com/nawnaw7/tests-and-practice/tree/master/canvas)
+
+
 
 
 
