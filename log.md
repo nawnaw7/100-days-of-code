@@ -172,8 +172,22 @@ Nevertheless, I managed to do two algorithms.
 [Github/canvas](https://github.com/nawnaw7/tests-and-practice/tree/master/canvas)
 
 
+### Day 17: September 23, Saturday
+
+**Progress**: Almost finished with the Complete Web Dev Course. Also, played a bit with parallaxes and photoshop and canvas.
+
+**Thoughts**: Wanna finish this course and start learning about Vue. I can't wait to be able to use it.
+
+**Link(s)**: -
 
 
+### Day 18: September 24, Sunday
+
+**Progress**: Did a clock face today with canvas. I only have the python section left from the Complete Web Dev Course....gonna finish it tomorrow than start learning Vue.
+
+**Thoughts**: The clock face exercise was fun. I also implemented a digital clock (at my dad's *fun* suggestion)...Can't wait tp start learning Vue.
+
+**Link(s)**: -
 
 
 
