@@ -190,8 +190,14 @@ Nevertheless, I managed to do two algorithms.
 **Link(s)**: -
 
 
+### Day 19: September 25, Monday
 
+**Progress**: I finally finished with the Complete Web Developer Course. I started the Vue.js course and I'm definitely enjoying it so far.
 
+**Thoughts**: I's been a long ride, but it was worth it. I learned many things from this course, when it comes to PHP and mysql. I could probably try creating (having fun) with a basic wordpress theme just for practice.
+
+**Link(s)**: 
+[Certificate of Completion](https://www.udemy.com/certificate/UC-XONBRMKQ/)
 
 
 
