@@ -200,7 +200,14 @@ Nevertheless, I managed to do two algorithms.
 [Certificate of Completion](https://www.udemy.com/certificate/UC-XONBRMKQ/)
 
 
+### Day 20: September 26, Tuesday
 
+**Progress**: Started a new course - Vue JS 2, The Complete Guide (incl. Vue Router & Vuex) - and I'm loving it so far. Did the first exercises too and they were fairly easy but entertaining.
+
+**Thoughts**: Vue.js is awesome. I can't wait to learn more and apply it in my projects. (Side note: Max's accent is kind of cute xD...)
+
+**Link(s)**:
+[Tweet + My solution to the exercises](https://twitter.com/sirbu_ioana/status/912734540812181504)
 
 
 
