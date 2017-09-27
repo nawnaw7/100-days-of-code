@@ -210,6 +210,13 @@ Nevertheless, I managed to do two algorithms.
 [Tweet + My solution to the exercises](https://twitter.com/sirbu_ioana/status/912734540812181504)
 
 
+### Day 21: September 27, Wednesday
+
+**Progress**: Continued with the Vue.js course and done event listeners.
+
+**Thoughts**: Event listeners and their manipulation is much easier with Vue than, say, with JS (obviously xD). I'm kind of sad because I'm a bit too busy these days and I don't have as much time as I would like to learn Vue....
+
+**Link(s)**: -
 
 
 
