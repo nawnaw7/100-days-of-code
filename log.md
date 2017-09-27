@@ -216,7 +216,8 @@ Nevertheless, I managed to do two algorithms.
 
 **Thoughts**: Event listeners and their manipulation is much easier with Vue than, say, with JS (obviously xD). I'm kind of sad because I'm a bit too busy these days and I don't have as much time as I would like to learn Vue....
 
-**Link(s)**: -
+**Link(s)**: 
+[Exercise 2](https://github.com/nawnaw7/tests-and-practice/blob/master/VueJS%20exercises/Exercise%202/index.html)
 
 
 
