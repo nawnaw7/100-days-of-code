@@ -208,6 +208,7 @@ Nevertheless, I managed to do two algorithms.
 
 **Link(s)**:
 [Tweet + My solution to the exercises](https://twitter.com/sirbu_ioana/status/912734540812181504)
+[Exercise 1](https://github.com/nawnaw7/tests-and-practice/blob/master/VueJS%20exercises/Exercise%201/index.html)
 
 
 ### Day 21: September 27, Wednesday
