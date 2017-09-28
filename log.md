@@ -221,6 +221,15 @@ Nevertheless, I managed to do two algorithms.
 [Exercise 2](https://github.com/nawnaw7/tests-and-practice/blob/master/VueJS%20exercises/Exercise%202/index.html)
 
 
+### Day 22: September 28, Thursday
+
+**Progress**: Finished the fist section of the Vue.js course - DOM manipulation - and learned about passin CSS classes with Vue, reading and manipulating users' inputs + computed properties and the watch 'ability'.
+
+**Thoughts**: Vue really makes things much easier when it comes to user inputs and dynamically changing content...Loving it! <3
+
+**Link(s)**: -
+
+
 
 
 
