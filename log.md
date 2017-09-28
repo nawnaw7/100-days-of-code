@@ -227,7 +227,8 @@ Nevertheless, I managed to do two algorithms.
 
 **Thoughts**: Vue really makes things much easier when it comes to user inputs and dynamically changing content...Loving it! <3
 
-**Link(s)**: -
+**Link(s)**: 
+[Exercise 3](https://github.com/nawnaw7/tests-and-practice/tree/master/VueJS%20exercises/Exercise%203)
 
 
 
