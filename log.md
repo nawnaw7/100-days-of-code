@@ -231,6 +231,15 @@ Nevertheless, I managed to do two algorithms.
 [Exercise 3](https://github.com/nawnaw7/tests-and-practice/tree/master/VueJS%20exercises/Exercise%203)
 
 
+### Day 23: September 29, Friday
+
+**Progress**: Did more Vue today. Things got more complicated but not impossible to understand. Finished the first section of the course (DOM manipulation).
+
+**Thoughts**: Can't wait to continue tomorrow. Once I know enough Vue, I'm going to implement it in all my FCC projects. ;D
+
+**Link(s)**:
+[JSFiddle - Exercise 4](https://jsfiddle.net/nawnaw/mwmu2khy/3/)
+
 
 
 
