@@ -241,7 +241,13 @@ Nevertheless, I managed to do two algorithms.
 [JSFiddle - Exercise 4](https://jsfiddle.net/nawnaw/mwmu2khy/3/)
 
 
+### Day 24: September 30, Saturday
 
+**Progress**: Finished the the second section of the Vue course (Conditionals and Lists) - learned how easy it is to loops through arrays and objects with Vue.
+
+**Thoughts**: Vue.js makes it much easier and nicer to use loops and display content dynamically. Love it!
+
+**Link(s)**: -
 
 
 
