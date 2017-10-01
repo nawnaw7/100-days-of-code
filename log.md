@@ -250,6 +250,15 @@ Nevertheless, I managed to do two algorithms.
 **Link(s)**: -
 
 
+### Day 25: October 1st, Sunday
+
+**Progress**: Completed 2 more sections from the VueJS2 course. Learned a bit about templates and components. Can't wait to learn more.
+
+**Thoughts**: I know I've said this a few times before, but i think I'm gonna start working on the JS calculator soon - using Vue :D
+
+**Link(s)**: -
+
+
 
 
 
