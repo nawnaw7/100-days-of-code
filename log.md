@@ -259,6 +259,16 @@ Nevertheless, I managed to do two algorithms.
 **Link(s)**: -
 
 
+### Day 26: October 2nd, Monday
+
+**Progress**: Continued with Vue. Installed Node.js and the Vue CLI package. Wrote an article for the FreeCodeCamp/Guides initiative + did my first pull request! xD
+
+**Thoughts**: Can't wait for my pull request to merge (hopefully)...Working in the command line is a bit confusing, but I gotta get over this already! xD
+
+**Link(s)**: 
+[My first PR](https://github.com/freeCodeCamp/guides/pull/626)
+
+
 
 
 
