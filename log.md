@@ -269,6 +269,12 @@ Nevertheless, I managed to do two algorithms.
 [My first PR](https://github.com/freeCodeCamp/guides/pull/626)
 
 
+### Day 27: October 3rd, Tuesday
 
+**Progress**: Set my first professional environment with vue cli and webpack...+ created my first vue files and templates!
+
+**Thoughts**: I had some trouble with the command prompt, but it felt great after I solved them and the work environment got set properly.
+
+**Link(s)**: -
 
 
