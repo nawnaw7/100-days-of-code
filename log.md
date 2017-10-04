@@ -278,3 +278,11 @@ Nevertheless, I managed to do two algorithms.
 **Link(s)**: -
 
 
+### Day 28: October 4, Wednesday
+
+**Progress**: Discovered Codewars xD Did 2 challenges there (2 * kata)...Didn't have much time for anything else.
+
+**Thougths**: Codewars was fun, though the challenges weren't quite easy.
+
+**Link(s)**: -
+
