@@ -286,3 +286,11 @@ Nevertheless, I managed to do two algorithms.
 
 **Link(s)**: -
 
+
+### Days 29-30: October 5-6, Friday-Saturday
+
+**Progress**: Did algorithms of Codewars and continued with VueJS. I also got a phone interview scheduled for next week!
+
+**Thoughts**: I hope I'll get the job xD
+
+**Link(s)**: -
