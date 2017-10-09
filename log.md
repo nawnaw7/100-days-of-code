@@ -303,5 +303,6 @@ Nevertheless, I managed to do two algorithms.
 **Thoughts**: It's the first time I wrote a project on SCSS! It was a bit difficult, but with tutorials and examples on the web I made it look quite nice. I have a few bugs that I need to fix (for example, I need the calculator to calculate everythime there are an x and a y, not only when the user presses on =). It's also my first Vue project outside of the course and I need a little time to get used to everything it can do + use it properly. 
 PS: I haven't skipped any days, I just felt it redundant to write the same thing. 
 
-**Link(s)**: -
+**Link(s)**: 
+[VueJS Calculator](https://nawnaw7.github.io/VueJS-calculator/)
 
