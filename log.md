@@ -287,10 +287,21 @@ Nevertheless, I managed to do two algorithms.
 **Link(s)**: -
 
 
-### Days 29-30: October 5-6, Friday-Saturday
+### Days 29-30: October 5-6, Thursday-Friday
 
 **Progress**: Did algorithms of Codewars and continued with VueJS. I also got a phone interview scheduled for next week!
 
 **Thoughts**: I hope I'll get the job xD
 
 **Link(s)**: -
+
+
+### Day 31-32-33: October 7-9, Saturday-Monday
+
+**Progress**: Continued with the Vue.js course + stared the JavaScript Calculator. I'm writing this project with Vue.js and SCSS. Finished the UI and wrote a few methods in vue.
+
+**Thoughts**: It's the first time I wrote a project on SCSS! It was a bit difficult, but with tutorials and examples on the web I made it look quite nice. I have a few bugs that I need to fix (for example, I need the calculator to calculate everythime there are an x and a y, not only when the user presses on =). It's also my first Vue project outside of the course and I need a little time to get used to everything it can do + use it properly. 
+PS: I haven't skipped any days, I just felt it redundant to write the same thing. 
+
+**Link(s)**: -
+
