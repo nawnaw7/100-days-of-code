@@ -306,3 +306,28 @@ PS: I haven't skipped any days, I just felt it redundant to write the same thing
 **Link(s)**: 
 [VueJS Calculator](https://nawnaw7.github.io/VueJS-calculator/)
 
+
+### Day 34: October 10, Tuesday
+
+**Progress**: Finished the Calculator project. It looks pretty and it behaves properly. I got a few bugs to fic though, but I kind of need inspiration on that, so I'm still at the thinking process.
+
+**Thoughts**: There was one function that drove me nuts for a few hours...I couldn't make the calculator do immediate calculations, only formula ones (when pressing =)...But after a few hours of agony, I made it! ;D
+
+**Link(s)**: [VueJS Calculator](https://nawnaw7.github.io/VueJS-calculator/)
+
+
+### Day 35: October 11, Wednesday
+
+**Progress**: Had my first interview...Looking forward for the response. Also wrote an article for freeCodeCamp/guides since it's hacktoberfest and all ;D
+
+**Thoughts**: I was very nervous for the interview, but, in my opinion, it went really well.
+
+**Link(s)**: - 
+
+### Day 36: October 12, Thursday
+
+**Progress**: I didn't feel quite well today, so I spent my day mostly in bed reading from Eloquent JavaScript and Vue.js 2 Cookbook.
+
+**Thoughts**: -
+
+**Link(s)**: - 
