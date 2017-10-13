@@ -324,6 +324,7 @@ PS: I haven't skipped any days, I just felt it redundant to write the same thing
 
 **Link(s)**: - 
 
+
 ### Day 36: October 12, Thursday
 
 **Progress**: I didn't feel quite well today, so I spent my day mostly in bed reading from Eloquent JavaScript and Vue.js 2 Cookbook.
@@ -331,3 +332,12 @@ PS: I haven't skipped any days, I just felt it redundant to write the same thing
 **Thoughts**: -
 
 **Link(s)**: - 
+
+
+### Day 37: October 13, Friday
+
+**Progress**: Still a bit ill today too, so I continued reading + thought about how to solve some bugs for my Vue calculator.
+
+**Thoughts**: I hate tummy pain xD But I love Vue and JS 
+
+**Link(s)**: -
