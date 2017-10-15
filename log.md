@@ -341,3 +341,21 @@ PS: I haven't skipped any days, I just felt it redundant to write the same thing
 **Thoughts**: I hate tummy pain xD But I love Vue and JS 
 
 **Link(s)**: -
+
+
+### Day 38: October 14, Saturday
+
+**Progress**: Did some debugging on my Vue Calculator. There is one bug that is giving me headaches, but I'll solve it eventually.
+
+**Thoughts**: I'm thinking to change the style a little bit too.
+
+**Link(s)**: **Link(s)**: [VueJS Calculator](https://nawnaw7.github.io/VueJS-calculator/)
+
+
+### Day 39: October 15, Sunday
+
+**Progress**: I tried fixing the one bug that drives me crazy - stopping the user from clicking more operators one after the other (Vue Calculator) and couldn't find a solution....Might have to change my strategy for this one.
+
+**Thoughts**: - 
+
+**Link(s)**: **Link(s)**: **Link(s)**: [VueJS Calculator](https://nawnaw7.github.io/VueJS-calculator/)
