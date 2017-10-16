@@ -349,7 +349,7 @@ PS: I haven't skipped any days, I just felt it redundant to write the same thing
 
 **Thoughts**: I'm thinking to change the style a little bit too.
 
-**Link(s)**: **Link(s)**: [VueJS Calculator](https://nawnaw7.github.io/VueJS-calculator/)
+**Link(s)**: [VueJS Calculator](https://nawnaw7.github.io/VueJS-calculator/)
 
 
 ### Day 39: October 15, Sunday
@@ -358,4 +358,13 @@ PS: I haven't skipped any days, I just felt it redundant to write the same thing
 
 **Thoughts**: - 
 
-**Link(s)**: **Link(s)**: **Link(s)**: [VueJS Calculator](https://nawnaw7.github.io/VueJS-calculator/)
+**Link(s)**: [VueJS Calculator](https://nawnaw7.github.io/VueJS-calculator/)
+
+
+### Day 40: October 16, Monday
+
+**Progress**: I fixed some more bugs on my Vue calculator. There is one that still persists though. I tried different approaches, but nothing worked for now.
+
+**Thoughts**: Still got no inspiration for this one... >.<
+
+**Link(s)**: [VueJS Calculator](https://nawnaw7.github.io/VueJS-calculator/)
