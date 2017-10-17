@@ -368,3 +368,15 @@ PS: I haven't skipped any days, I just felt it redundant to write the same thing
 **Thoughts**: Still got no inspiration for this one... >.<
 
 **Link(s)**: [VueJS Calculator](https://nawnaw7.github.io/VueJS-calculator/)
+
+
+### Day 41: October 17, Tuesday
+
+**Progress**: Did algorithms on Free Code Camp. 
+
+**Thoughts**: The intermediate algorithms suddenly got easier, or I have actually learned a few things as I struggled with fixing bugs on my Vue calculator project. Anyway, good feeling when solving one with ease. ^^
+
+**Link(s)**:
+* [DNA Pairing](https://www.freecodecamp.org/challenges/dna-pairing)
+* [Missing Letters](https://www.freecodecamp.org/challenges/missing-letters)
+* [Boo Who](https://www.freecodecamp.org/challenges/missing-letters)
