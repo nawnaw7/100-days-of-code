@@ -380,3 +380,12 @@ PS: I haven't skipped any days, I just felt it redundant to write the same thing
 * [DNA Pairing](https://www.freecodecamp.org/challenges/dna-pairing)
 * [Missing Letters](https://www.freecodecamp.org/challenges/missing-letters)
 * [Boo Who](https://www.freecodecamp.org/challenges/missing-letters)
+
+
+### Day 42: October 18, Wednesday
+
+**Progress**: I was a bit busy today and I only managed to read a bit from Eloquent Javascript. Gonna do more tomorrow, hopefully.
+
+**Thoughts**: I got a translation project that takes up all my time now, but I'm gonna finish it soon.
+
+**Link(s)**: -
