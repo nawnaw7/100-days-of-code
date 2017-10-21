@@ -389,3 +389,30 @@ PS: I haven't skipped any days, I just felt it redundant to write the same thing
 **Thoughts**: I got a translation project that takes up all my time now, but I'm gonna finish it soon.
 
 **Link(s)**: -
+
+
+### Day 43: October 19, Thursday
+
+**Progress**: I did my third PR today. Contributed to a repository that collects Web Development resources.
+
+**Thoughts**: Feels nice to think you help others with the things you've collected so far.
+
+**Link(s)**: [My PRs](https://github.com/pulls?q=is%3Apr+author%3Anawnaw7+is%3Aclosed)
+
+
+### Day 44: October 20, Friday
+
+**Progress**: I decided to work as a freelance web developer for now so I created an Upwork account. Yey! Still no luck with my Vue calculator. 
+
+**Thoughts**: I probably need a break from the calculator, so I'll concentrate on creating a few mockup websites the next days.
+
+**Link(s)**: -
+
+
+### Day 45: October 21, Saturday
+
+**Progress**: I participated to a freeCodeCamp meetup in Munich. We discussed many things code related and received a nice programming track (links to books and courses) that if followed would bring on to the level of a university degree in computed science.
+
+**Thoughts**: Feel a bit tired now. xD
+
+**Link(s)**: -
