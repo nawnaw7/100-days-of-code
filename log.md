@@ -416,3 +416,39 @@ PS: I haven't skipped any days, I just felt it redundant to write the same thing
 **Thoughts**: Feel a bit tired now. xD
 
 **Link(s)**: -
+
+
+### Day 46: October 22, Sunday
+
+**Progress**: I re-coded an onlder project of mine, using Material Kit PRO from Creative Team.
+
+**Thoughts**: The end result looks amazing. 
+
+**Link(s)**: [Awesome Landing Page](https://nawnaw7.github.io/landing-page-template/)
+
+
+### Day 47: October 23, Monday
+
+**Progress**: I got an answer from one of the jobs I applied to. I will soon receive a coding challenge. I added comments and pretified my Landing page.
+
+**Thoughts**: I love the way my landing page template looks like. Also, I can't wait to see the challenge.
+
+**Link(s)**: [Awesome Landing Page](https://nawnaw7.github.io/landing-page-template/)
+
+
+### Day 48: October 24, Tuesday
+
+**Progress**: I received the coding challenge --> Create a webpage after a mockup. Worked on it the whole day. xD
+
+**Thoughts**: I really like the design of the webpage. Hopefully, I will make it fully responsive.
+
+**Link(s)**: -
+
+
+### Day 49: October 25, Wednesday
+
+**Progress**: I finished the chalenge. Got only comments more to write and read a bit about CSS best practices.
+
+**Thoughts**: I really like how my solution looks like. It is clean and responsive.
+
+**Link(s)**: -
