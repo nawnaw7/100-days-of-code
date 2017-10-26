@@ -452,3 +452,12 @@ PS: I haven't skipped any days, I just felt it redundant to write the same thing
 **Thoughts**: I really like how my solution looks like. It is clean and responsive.
 
 **Link(s)**: -
+
+
+### Day 50: October 26, Thursday
+
+**Progress**: Finished the coding challenge. Looks great and it is cross-browser tested, accessible and fully responsive. 
+
+**Thoughts**: I really enjoyed working on this challenge...Wasn't too difficult either. Hopefully my solution was good enough. xD
+
+**Link(s)**: -
