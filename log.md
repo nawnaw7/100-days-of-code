@@ -461,3 +461,12 @@ PS: I haven't skipped any days, I just felt it redundant to write the same thing
 **Thoughts**: I really enjoyed working on this challenge...Wasn't too difficult either. Hopefully my solution was good enough. xD
 
 **Link(s)**: -
+
+
+### Day 51: October 31, Tuesday
+
+**Progress**: I started my Pomodoro Timer project for the FCC curricula. Started working on the design and researched a bit about the JavaScript part.
+
+**Thoughts**: I feel sorry I had to take a break for a few days. I had a pressing matter to solve, so it kinda took priority. But I am back with new forces :D
+
+**Link(s)**: -
