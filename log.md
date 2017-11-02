@@ -470,3 +470,21 @@ PS: I haven't skipped any days, I just felt it redundant to write the same thing
 **Thoughts**: I feel sorry I had to take a break for a few days. I had a pressing matter to solve, so it kinda took priority. But I am back with new forces :D
 
 **Link(s)**: -
+
+
+### Day 52: November 1s, Wednesday
+
+**Progress**: I finished the design for my Pomodoro project. I used SCSS :D I find it really hand to return to normal css now. xD
+
+**Thoughts**: I love how clean my Pomodoro timer looks. I'm probably going to make it into a desktop app for personal use! ^^
+
+**Link(s)**: [Pomodoro Timer]()
+
+
+### Day 53: October 31, Tuesday
+
+**Progress**: I did a bit of research on modular patterns for JavaScript. Started reading 'Learning JavaScript Design Patterns'. I'm going to give this a try tomorrow. *fingers crossed*
+
+**Thoughts**: I feel so tired for some reason...
+
+**Link(s)**: -
