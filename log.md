@@ -517,7 +517,7 @@ PS: I haven't skipped any days, I just felt it redundant to write the same thing
 **Link(s)**: [Pomodoro Timer](https://nawnaw7.github.io/JS-Pomodoro/)
 
 
-### day 57:
+### day 57: November 7th, Tuesday
 
 **Progress**: I finally made my modules communicate well with one another!!! All that's left now is to create the methods needed by the app's click events.
 
