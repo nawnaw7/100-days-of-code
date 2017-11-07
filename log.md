@@ -499,7 +499,7 @@ PS: I haven't skipped any days, I just felt it redundant to write the same thing
 **Link(s)**: [Pomodoro Timer](https://nawnaw7.github.io/JS-Pomodoro/)
 
 
-### Day 55:
+### Day 55: November 5th, Sunday
 
 **Progress**: I tried making my modules communicate with each other -> failed -> frustration!!
 
@@ -508,7 +508,7 @@ PS: I haven't skipped any days, I just felt it redundant to write the same thing
 **Link(s)**: [Pomodoro Timer](https://nawnaw7.github.io/JS-Pomodoro/)
 
 
-### Day 56:
+### Day 56: November 6th, Monday
 
 **Progress**: All I did today was read from 'Eloquent JavaScript' and 'Learning JavaScript Design Patterns' + watched tutorials about modular programming...
 
