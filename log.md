@@ -472,19 +472,55 @@ PS: I haven't skipped any days, I just felt it redundant to write the same thing
 **Link(s)**: -
 
 
-### Day 52: November 1s, Wednesday
+### Day 52: November 1st, Wednesday
 
 **Progress**: I finished the design for my Pomodoro project. I used SCSS :D I find it really hand to return to normal css now. xD
 
 **Thoughts**: I love how clean my Pomodoro timer looks. I'm probably going to make it into a desktop app for personal use! ^^
 
-**Link(s)**: [Pomodoro Timer]()
+**Link(s)**: [Pomodoro Timer](https://nawnaw7.github.io/JS-Pomodoro/)
 
 
-### Day 53: October 31, Tuesday
+### Day 53: November 2nd, Thursday
 
 **Progress**: I did a bit of research on modular patterns for JavaScript. Started reading 'Learning JavaScript Design Patterns'. I'm going to give this a try tomorrow. *fingers crossed*
 
 **Thoughts**: I feel so tired for some reason...
 
 **Link(s)**: -
+
+
+### Day 54: November 3rd, Friday
+
+**Progress**: Started working on the Pomodoro's JS architecture. Working with modules is not as easy as I thought >.< 
+
+**Thoughts**: I made myself a blackboard and wrote the plan for this app on it. Felt really excited about this. :D
+
+**Link(s)**: [Pomodoro Timer](https://nawnaw7.github.io/JS-Pomodoro/)
+
+
+### Day 55:
+
+**Progress**: I tried making my modules communicate with each other -> failed -> frustration!!
+
+**Thoughts**: Nothing seem to work today...
+
+**Link(s)**: [Pomodoro Timer](https://nawnaw7.github.io/JS-Pomodoro/)
+
+
+### Day 56:
+
+**Progress**: All I did today was read from 'Eloquent JavaScript' and 'Learning JavaScript Design Patterns' + watched tutorials about modular programming...
+
+**Thoughts**: It is all still very confusing! ><
+
+**Link(s)**: [Pomodoro Timer](https://nawnaw7.github.io/JS-Pomodoro/)
+
+
+### day 57:
+
+**Progress**: I finally made my modules communicate well with one another!!! All that's left now is to create the methods needed by the app's click events.
+
+**Thoughts**: I love the feeling when something finally works after hours of frustrations. Still, I did learn a lot these past few days and I do feel more confident about using the modules pattern.
+
+**Link(s)**: [Pomodoro Timer](https://nawnaw7.github.io/JS-Pomodoro/)
